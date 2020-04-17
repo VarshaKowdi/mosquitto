@@ -14,6 +14,8 @@ Contributors:
    Roger Light - initial implementation and documentation.
 */
 
+//checking
+
 #include "config.h"
 
 #include <errno.h>
